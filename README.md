@@ -5,7 +5,7 @@
 🚀 **HTML, CSS, C#, Flutter ve ASP.NET** gibi teknolojilerde bilgi sahibiyim.  
 
 🌟 Sürekli öğrenmeye ve yaratıcı projelerle deneyim kazanmaya çalışıyorum.  
-📫 Bana ulaşmak için: [LinkedIn](www.linkedin.com/in/merve-subaşı)  
+📫 Bana ulaşmak için: [LinkedIn](https://www.linkedin.com/in/merve-suba%C5%9F%C4%B1-72437725b/)  
 
 ---
 
