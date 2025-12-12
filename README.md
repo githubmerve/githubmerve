@@ -1,6 +1,6 @@
 # Merhaba, Ben Merve! 👋  
 
-🎓 **Uludağ Üniversitesi Yönetim Bilişim Sistemleri 3. Sınıf Öğrencisiyim**  
+🎓 **Uludağ Üniversitesi Yönetim Bilişim Sistemleri 4. Sınıf Öğrencisiyim**  
 💻 **Frontend ve UI/UX Tasarım geliştiricisiyim**  
 🚀 **HTML, CSS, C#, Flutter ve ASP.NET** gibi teknolojilerde bilgi sahibiyim.  
 
