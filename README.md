@@ -1,11 +1,17 @@
-# Merhaba, Ben Merve! 👋  
+# Merve Subaşı | Management Information Systems (4th Year) 
 
-🎓 **Uludağ Üniversitesi Yönetim Bilişim Sistemleri 4. Sınıf Öğrencisiyim**  
-💻 **Frontend ve UI/UX Tasarım geliştiricisiyim**  
-🚀 **HTML, CSS, C#, Flutter ve ASP.NET** gibi teknolojilerde bilgi sahibiyim.  
+🔹 Interests:  
+- Big Data & Web Mining  
+- Data Analysis & Machine Learning  
+- Cybersecurity  
 
-🌟 Sürekli öğrenmeye ve yaratıcı projelerle deneyim kazanmaya çalışıyorum.  
-📫 Bana ulaşmak için: [LinkedIn](https://www.linkedin.com/in/merve-suba%C5%9F%C4%B1-72437725b/)  
+🔹 Technologies:  
+Python • Pandas • SQL • Docker • Kafka • Spark  
+
+🔹 Design & Creative Tools:  
+Adobe Photoshop • After Effects
+
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/merve-suba%C5%9F%C4%B1-72437725b/)  
 
 ---
 
