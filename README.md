@@ -1,4 +1,4 @@
-# Merve Subaşı | Management Information Systems (4th Year) 
+# Merve Subaşı | Management Information Systems Graduate
 
 🔹 Interests:  
 - Big Data & Web Mining  
